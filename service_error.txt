@@ -1,0 +1,3479 @@
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
+
+============================================================
+READ EVENT ERROR
+Traceback (most recent call last):
+  File "F:\WindowsLoginCapture\phase2_service.py", line 291, in read_new_events
+    int(event.StringInserts[10])
+ValueError: invalid literal for int() with base 10: 'Negotiate'
