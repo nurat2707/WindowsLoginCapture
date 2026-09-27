@@ -1452,23 +1452,23 @@ body.dark-theme {
   margin-bottom: 20px;
 }
 
-/* Individual 6-Digit PIN Boxes */
+/* Individual 4-Digit PIN Boxes */
 .pin-digits-container {
   display: flex;
-  gap: 8px;
+  gap: 12px;
   justify-content: center;
-  margin: 8px 0 16px;
+  margin: 12px 0 20px;
 }
 
 .pin-digit-box {
-  width: 46px;
-  height: 54px;
+  width: 54px;
+  height: 62px;
   background: var(--bg-primary);
   border: 2px solid var(--border-medium);
   border-radius: var(--radius-md);
   color: #ffffff;
   font-family: var(--font-mono);
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   text-align: center;
   outline: none;

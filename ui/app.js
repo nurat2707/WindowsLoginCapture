@@ -852,8 +852,8 @@ async function loadSettingsData() {
 
 async function saveSettings() {
   const newPin = document.getElementById('newPinInput').value.trim();
-  if (newPin && newPin.length < 4) {
-    showToast("Master PIN must be at least 4 digits.");
+  if (newPin && newPin.length !== 4) {
+    showToast("Master PIN must be exactly 4 digits.");
     return;
   }
 
@@ -1035,7 +1035,7 @@ async function submitPin() {
   boxes.forEach(b => enteredPin += b.value.trim());
 
   if (enteredPin.length < 4) {
-    errorMsg.textContent = "Please enter your PIN (at least 4 digits).";
+    errorMsg.textContent = "Please enter your 4-digit Master PIN.";
     return;
   }
 
