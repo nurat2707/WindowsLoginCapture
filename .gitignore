@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Inno Setup builds
+build/
+dist/
+Output/
+*.spec.bak
+
+# Local databases and logs
+*.db
+*.log
+failed_logins.txt
+service_error.log
+service_error.txt
+query
+
+# Captured photos
+failed_login_*.jpg
+*.jpg
+*.png
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE and temporary files
+.vscode/
+.idea/
+.gemini/
+scratch/
