@@ -219,20 +219,48 @@ class AppApi:
             return {"success": False, "message": "Incorrect Master PIN."}
 
         current = self.get_service_status()["status"]
+        if current not in ("RUNNING", "STOPPED"):
+            return {
+                "success": False,
+                "message": "Windows Service is currently not installed. Running in standalone desktop mode."
+            }
+
+        action = "stop" if current == "RUNNING" else "start"
+
+        # 1. Try direct Service Control Manager first
         try:
-            if current == "RUNNING":
+            if action == "stop":
                 win32serviceutil.StopService(SERVICE_NAME)
                 return {"success": True, "message": "Windows Service Protection Paused.", "status": "STOPPED"}
-            elif current == "STOPPED":
+            else:
                 win32serviceutil.StartService(SERVICE_NAME)
                 return {"success": True, "message": "Windows Service Protection Started.", "status": "RUNNING"}
-            else:
-                return {
-                    "success": False,
-                    "message": "Windows Service is currently not installed. Running in standalone desktop mode."
-                }
         except Exception as e:
-            return {"success": False, "message": f"Service control error: {str(e)}"}
+            # 2. If non-admin (Access is denied error 5), request standard Windows UAC elevation
+            err_str = str(e)
+            if "Access is denied" in err_str or (hasattr(e, "winerror") and e.winerror == 5):
+                try:
+                    import ctypes
+                    ret = ctypes.windll.shell32.ShellExecuteW(
+                        None,
+                        "runas",
+                        "net.exe",
+                        f"{action} {SERVICE_NAME}",
+                        None,
+                        0  # SW_HIDE
+                    )
+                    if ret > 32:
+                        import time
+                        time.sleep(1.2)
+                        new_status = self.get_service_status()["status"]
+                        msg = "Protection Paused." if new_status == "STOPPED" else "Protection Active."
+                        return {"success": True, "message": f"Windows Service {msg}", "status": new_status}
+                    else:
+                        return {"success": False, "message": "Administrator permission was declined."}
+                except Exception as elev_err:
+                    return {"success": False, "message": f"Elevation failed: {elev_err}"}
+
+            return {"success": False, "message": f"Service control error: {err_str}"}
 
     def open_file_in_os(self, file_path: str):
         """Opens high-resolution photo in default Windows Photos viewer."""
